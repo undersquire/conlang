@@ -22,9 +22,12 @@ are no rules for this, just use the sound that feels more natural in certain wor
 
 # Syllable Rules
 
-There are **3** rules that apply to how syllables are formed and pronounced.
-
-- Vowels and consonants must always be paired with each other, neither can exist on their own
-- Two vowels/consonants can exist next to each other in a word as long as they are different
-- The **h** consonant is silent (not pronounced) unless it comes before a vowel (which can be
-in the adjacent syllable, for example, if the **h** consonant is used as a coda)
+- Consonant must **always** come before a vowel, and as a result, no consonant clusters can exist
+- Vowels can be used freely and can be combined to create dipthongs, with some exceptions:
+  - Adjacent dipthongs can be merged when pronouncing if it sounds more natural, for example, `uai` pronounce like the english word `why`
+  - Double-vowels, for example `aa`, are uncommon, but if encountered, should be pronounced in a *rising*, question-like tone
+  - `i-` creates a `y-` sound, for example, `ia` is pronounced as `ya`
+  - `e-` only exists for `ei`, which is pronounced like the name of the English letter `A`
+  - `a-` only exists for `ai`, which is pronounced like the name of the English letter `I`
+  - `o-` is unused, as the sounds it produces are unnatural
+  - `u-` creates a `w-` sound, for example, `ua` is pronounced as `wa`
