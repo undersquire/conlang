@@ -4,8 +4,8 @@
 
 | Romanization | Translation (English) |
 |--------------|-----------------------|
-| ih | to agree |
-| eh | no/not/negate meaning |
+| i | to agree |
+| e | no/not/negate meaning |
 | pa | action |
 | ni | thing/object |
 | na | food/drink |
