@@ -3,15 +3,17 @@
 **Symbol Key:**
 
 * \~
-    * Possesive marker, like ’s from English
+    * Possesive marker, like `’s` from English
 * \+
     * Conjunction for nouns/adjectives/verbs/adverbs
 * \>
-    * Sentence transition marker, like and for sentences from English
+    * Sentence transition marker, like `and` for sentences from English
 * \*
     * Plural marker
 * \-
     * Two or more words directly separated by a dash are joined together in the actual writing
+* \$
+    * Questions quantity, like `how many` from English
 * \[…]
     * Optionally included
 * \(…)
