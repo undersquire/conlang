@@ -13,9 +13,9 @@ The language's phonology is very simple, consisting of only **5** vowels and **7
 | **Stop** | p, b | t, d |&nbsp;| k, g |&nbsp;|&nbsp;|
 | **Nasal** | m | n |&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | **Liquid** |&nbsp;|&nbsp;| l |&nbsp;|&nbsp;|&nbsp;|
-| **Non-sibilant Affricate** |&nbsp;|&nbsp;|&nbsp;|&nbsp;| h |
+| **Sibilant Affricate** |&nbsp;|tʃ, dʒ|&nbsp;|&nbsp;|&nbsp;|
 
-**NOTE:** The consonant pairs **(p, b)**, **(t, d)**, and **(k, g)** are treated as one distinct consonant,
+**NOTE:** The consonant pairs **(p, b)**, **(t, d)**, **(k, g)**, and **(tʃ, dʒ)** are treated as one distinct consonant,
 meaning that their voiced and unvoiced sounds can be used interchangibly to represent the same consonant.
 This means that you can, for example, use the **b** sound anywhere over the **p** sound, or vise versa. There
 are no rules for this, just use the sound that feels more natural in certain words.
