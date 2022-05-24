@@ -2,17 +2,56 @@
 
 **NOTE:** This can (and will) change frequently.
 
-| Romanization | Translation (English) |
-|--------------|-----------------------|
-| i | to agree |
-| e | no/not/negate meaning |
-| pa | action |
-| ni | thing/object |
-| na | food/drink |
-| nam | water |
-| ki | person/human/identity |
-| ke | I/me/my/myself |
-| ka | your/your/yourself |
-| ko | they/them/their/themself |
-| papa | to do |
-| paki | to consume |
+## Mi
+
+_noun_
+
+1. a material thing that can be seen and touched.
+
+Similar English Words: object, thing
+
+_verb_
+
+1. possess, own, hold, or have objective reality or being.
+
+Similar English Words: have, exist
+
+## Me
+
+_noun_
+
+1. an individual animal, plant, or single-celled life form.
+
+Similar English Words: organism, creature
+
+_verb_
+
+1. remain alive.
+
+Similar English Words: live
+
+_adjective_
+
+1. alive.
+
+Similar English Words: alive, living-
+
+## Ma
+
+_noun_
+
+1. a human being.
+
+Similar English Words: person, human
+
+_verb_
+
+1. to make something more humane or civilized.
+
+Similar English Words: humanize
+
+_adjective_
+
+1. suggesting humanlike characteristics.
+
+Similar English Words: humanlike
