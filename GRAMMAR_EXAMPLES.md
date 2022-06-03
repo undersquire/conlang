@@ -23,19 +23,19 @@
 
 "Yes."
 
-Is.
+Correct.
 
 "No."
 
-Not.
+No.
 
 "Hello."
 
-You \[is] well.
+Good day.
 
 "How are you?"
 
-You \[is] well?
+You how is?
 
 "I am well"
 
@@ -47,7 +47,7 @@ Again see!
 
 “My favorite food is rice.”
 
-Me most like~ consume-thing is creautre-plant-rice.
+Me most like~ consume-thing is plant-rice.
 
 “They gave me food.”
 
